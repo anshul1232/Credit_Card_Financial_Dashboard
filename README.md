@@ -2,10 +2,11 @@
 Powerbi Dashboard
 project objective: 
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
-steps: 1. Project objective 
-2. Data from SQL 
-3. Data processing & DAX 
-4. Dashboard & insights
+
+steps:
+1. Data from SQL 
+2. Data processing & DAX 
+3. Dashboard & insights
 
 Insights: WoW change: 
 • Revenue increased by 28.8%, 

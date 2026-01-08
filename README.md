@@ -6,6 +6,7 @@ steps: 1. Project objective
 2. Data from SQL 
 3. Data processing & DAX 
 4. Dashboard & insights
+
 Insights: WoW change: 
 • Revenue increased by 28.8%, 
 • Total Transaction Amt & Count increased by xx% & xx%
